@@ -1,0 +1,13 @@
+JSParsing
+---------
+
+JSParsing is a parser framework, implemented in JavaScript, in the style of Python's PyParsing.
+
+Licence: GPL v2
+
+
+Usage
+-----
+
+Include jsparsing.js in your page.  You can then use the functions of JSParsing to programatically define your parser.  An example is included within the package.
+
